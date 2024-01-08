@@ -1,1 +1,39 @@
-
+- Basics
+  - Main syntax: 🖐️ used
+  - Identifiers: 🖐️ used
+  - Keywords: 🖐️ used
+  - Comments: 🖐️ used
+  - Variables: 🖐️ used
+  - Constants: 🖐️ used
+  - Scope rules: 🖐️ used
+- Data types
+  - Data types in C: 🖐️ used
+  - Data type modifiers: 🖐️ used
+  - Escape sequence: 🖐️ used
+  - Boolean: 🖐️ used
+- Input/Output
+  - printf: 🖐️ used
+  - scanf: 🖐️ used
+  - Format specifiers: 🖐️ used
+- Operators
+  - Arithmetic operations: 🖐️ used
+  - Relational operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Bitwise operators: 🎓 known
+  - Assignment operators: 🖐️ used
+  - Increment and decrement operators: 🖐️ used
+- Control statements
+  - if...else: 🖐️ used
+  - Switch: 🖐️ used
+  - Loops: 🖐️ used
+  - break: 🖐️ used
+  - goto: 🎓 known
+- Functions
+  - C functions: 🙋 explained
+  - Function definitiion and call: 🙋 explained
+  - Parameter passing techniques: 🖐️ used
+  - Math functions: 🖐️ used
+- Arrays
+  - C arrays: 🖐️ used
+  - Multidimensional arrays: 🖐️ used
+  - Passing arrays to functions: 🙋 explained
