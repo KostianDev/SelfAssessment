@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object: 🎓 known
+  - this: 👂 heard
+  - arrow function: 👂 heard
   - async function
   - call
   - bind
@@ -13,71 +13,71 @@
   - ...rest
   - typeof
   - destructuring
-  - generator
-  - iterator
+  - generator: 🎓 known
+  - iterator: 🎓 known
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
+  - global: 🎓 known
+  - globalThis: 🎓 known
+  - window: 🎓 known
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
+  - equality operators: 🎓 known
+  - logical operators: 🎓 known
+  - bitwise operators: 🎓 known
   - ternary operator
-  - void
-  - yield
+  - void: 🎓 known
+  - yield: 🎓 known
   - await
   - template literal
-  - strict mode
+  - strict mode: 🎓 known
   - delete
-  - in
+  - in: 🎓 known
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while: 🎓 known
+  - for: 🎓 known
+  - for..in: 🎓 known
+  - for..of: 🎓 known
   - for await
   - throw
-  - break
-  - continue
+  - break: 🎓 known
+  - continue: 🎓 known
   - import
   - export
   - label
   - try..catch
   - switch
-  - class
+  - class: 🎓 known
   - new Error
-  - with
+  - with: 🎓 known
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🎓 known
+  - function expression: 🎓 known
+  - return: 🎓 known
+  - default parameters: 🎓 known
   - functional object
 - Data structures
-  - Array
+  - Array: 🎓 known
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
-  - timers
-  - EventEmitter
+  - timers: 🎓 known
+  - EventEmitter: 🎓 known
   - RegExp
   - Date
   - BigInt
