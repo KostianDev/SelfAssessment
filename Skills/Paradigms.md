@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 👂 heard
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -21,21 +21,21 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
+  - constructor: 👂 heard
   - new
   - Static method
   - Method
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
-  - Inheritance
+  - Inheritance: 👂 heard
   - Parent class
-  - Polymorphism
+  - Polymorphism: 👂 heard
   - Abstract class
-  - Interface
-  - Encapsulation
+  - Interface: 👂 heard
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
   - instance
