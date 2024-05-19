@@ -9,7 +9,7 @@
   - literal: 🖐️ used
   - expression: 🖐️ used
   - heap
-  - function: 🎓 known
+  - function: 🖐️ used
   - procedure: 🎓 known
   - method: 👂 heard
   - class: 👂 heard
@@ -18,14 +18,14 @@
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 👂 heard
-  - flag: 👂 heard
+  - flag: 🖐️ used
   - lexical scope
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 👂 heard
-  - interface
+  - interface: 👂 heard
   - contract
   - module: 👂 heard
   - call stack
@@ -33,24 +33,24 @@
   - signature
   - argument: 👂 heard
   - parameter: 👂 heard
-  - pure function
+  - pure function: 👂 heard
   - lambda expression
-  - side effects
+  - side effects: 👂 heard
   - closure
   - partial application
   - curry
   - higher order
   - recursion: 👂 heard
-  - callback
+  - callback: 👂 heard
   - listener: 🖐️ used
   - compose
   - pipe
   - memoize
-  - wrapper
+  - wrapper: 👂 heard
   - functor
   - monad
   - monoid
-  - generator
+  - generator: 🎓 known
   - coroutine
 - Data structures
   - array: 🖐️ used
@@ -58,8 +58,8 @@
   - record
   - enum
   - instance
-  - object: 👂 heard
-  - class: 👂 heard
+  - object: 🎓 known
+  - class: 🎓 known
   - collection
   - set
   - hash table
@@ -70,37 +70,37 @@
   - queue
   - stack: 🖐️ used
   - deque
-  - tree
-  - graph
+  - tree: 👂 heard
+  - graph: 👂 heard
   - iterator: 🖐️ used
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler: 👂 heard
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
   - debugger: 🎓 known
-  - garbage collection
+  - garbage collection: 👂 heard
   - refactoring: 👂 heard
   - code review: 🎓 known
-  - antipatterns
+  - antipatterns: 👂 heard
   - paradigm: 👂 heard
   - algorithm: 🎓 known
-  - magic numbers
-  - hardcode: 👂 heard
+  - magic numbers: 🎓 known
+  - hardcode: 🎓 known
   - complexity
   - decomposition: 👂 heard
   - spaghetti: 🎓 known
-  - silver bullet
-  - not invented here
-  - dead code
+  - silver bullet: 👂 heard
+  - not invented here: 👂 heard
+  - dead code: 👂 heard
   - unreachable code: 👂 heard
   - duplicate code: 🎓 known
   - exception: 🖐️ used
   - return early
-  - unittest: 👂 heard
-  - git: 👂 heard
-  - github: 👂 heard
+  - unittest: 🎓 known
+  - git: 🎓 known
+  - github: 🖐️ used
