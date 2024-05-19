@@ -3,18 +3,18 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations
+  - Migrations ~
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
+  - Backup and recovery ~
+  - Database scalability ~
+  - Relational databases ~
   - Key-value store
   - Tuple store
   - Graph databases
   - Object databases
   - Column databases
   - Navigational databases
-  - Hierarchical databases
+  - Hierarchical databases ~
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
@@ -71,24 +71,24 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
-  - MySQL
+  - Oracle ~
+  - MySQL ~
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB ~
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite ~
   - DynamoDB
-  - Firebase
+  - Firebase +
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
+  - Data analysis ~
   - AI tools
-  - Cloud databases
+  - Cloud databases ~
   - Data Visualization
