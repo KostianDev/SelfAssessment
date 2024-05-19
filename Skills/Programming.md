@@ -5,25 +5,25 @@
   - Modeling
   - Subject domain
   - Algorithm: 🎓 known
-  - Syntax
+  - Syntax +
   - Semantics
   - Abstraction
   - Paradigm: 👂 heard
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Programm +
+  - Programming paradigm +
+  - Programming language +
   - Contract
   - Module: 👂 heard
-  - Library
+  - Library *
   - Package
   - Component
-  - Framework
-  - Platform
-  - Source code
+  - Framework *
+  - Platform +
+  - Source code +
   - Object code
-  - Machine code
+  - Machine code +
   - Microcode
-  - Software engineering
+  - Software engineering +
   - Decomposition: 👂 heard
   - Control flow
   - Data flow
@@ -48,14 +48,14 @@
   - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag: 🖐️ used
-  - Lexical scope
+  - Lexical scope +
   - Code block: 🖐️ used
   - Conditions: 🖐️ used
   - Loops: 🖐️ used
   - Assignment: 🖐️ used
   - Regular expression: 👂 heard
-  - Interface: 👂 heard
-  - Namespaces
+  - Interface *
+  - Namespaces ~
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument: 👂 heard
-  - Parameter: 👂 heard
+  - Argument *
+  - Parameter *
   - Pure function: 👂 heard
   - Lambda expression
   - Side effects: 👂 heard
@@ -91,9 +91,9 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion: 👂 heard
+  - Recursion *
   - Tail call optimisation
-  - Callback: 👂 heard
+  - Callback *
   - Listener: 🖐️ used
   - Composition
   - Pipe
@@ -112,37 +112,37 @@
   - Instance
   - Object: 🎓 known
   - Collection
-  - Set
+  - Set +
   - Hash table
-  - Linked list
+  - Linked list *
   - Doubly list
   - Unrolled list
-  - Circular list
-  - Queue
+  - Circular list +
+  - Queue *
   - Stack: 🖐️ used
   - Deque
-  - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Tree *
+  - Graph *
   - Iterator: 🖐️ used
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Mutable state +
+  - Immutable state +
+  - Serialization ~
+  - String parsing ~
+  - JSON +
   - JSON5
-  - YAML
+  - YAML ~
 - Networking
-  - DNS
+  - DNS ~
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 *
+  - IPv6 *
+  - NAT ~
+  - URL +
   - URN
   - URI
 - Process and tools
-  - Compiler: 🎓 known
+  - Compiler *
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,23 +152,23 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime ~
+  - Virtual machine +
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization ~
   - Debugger: 🎓 known
   - Tracing
   - Garbage collection: 👂 heard
-  - Refactoring: 👂 heard
+  - Refactoring +
   - Code review: 🎓 known
   - Exception: 🖐️ used
   - Unittesting: 🎓 known
-  - git: 🎓 known
+  - git *
   - Github: 🖐️ used
-  - Docker
-  - Kubernetes
-  - GCC
+  - Docker +
+  - Kubernetes ~
+  - GCC +
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
@@ -182,18 +182,18 @@
   - Silver bullet: 👂 heard
   - Not invented here: 👂 heard
   - Dead code: 👂 heard
-  - Unreachable code: 👂 heard
+  - Unreachable code +
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Large class/file +
+  - Too many parameters +
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case +
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,20 +209,20 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers ~
+  - Kernel ~
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
+  - File system +
+  - Linux *
+  - Unix +
+  - BSD ~
+  - MacOS +
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII ~
   - Escape sequence
   - RFC
   - IETF
