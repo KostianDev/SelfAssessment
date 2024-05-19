@@ -5,25 +5,25 @@
   - Modeling
   - Subject domain
   - Algorithm: 🎓 known
-  - Syntax +
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm: 👂 heard
-  - Programm +
-  - Programming paradigm +
-  - Programming language +
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🎓 known
   - Contract
   - Module: 👂 heard
-  - Library *
+  - Library: 🖐️ used
   - Package
   - Component
-  - Framework *
-  - Platform +
-  - Source code +
+  - Framework: 🖐️ used
+  - Platform: 🎓 known
+  - Source code: 🎓 known
   - Object code
-  - Machine code +
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering +
+  - Software engineering: 🎓 known
   - Decomposition: 👂 heard
   - Control flow
   - Data flow
@@ -48,14 +48,14 @@
   - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag: 🖐️ used
-  - Lexical scope +
+  - Lexical scope: 🎓 known
   - Code block: 🖐️ used
   - Conditions: 🖐️ used
   - Loops: 🖐️ used
   - Assignment: 🖐️ used
   - Regular expression: 👂 heard
-  - Interface *
-  - Namespaces ~
+  - Interface: 🖐️ used
+  - Namespaces: 👂 heard
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument *
-  - Parameter *
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function: 👂 heard
   - Lambda expression
   - Side effects: 👂 heard
@@ -91,9 +91,9 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion *
+  - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback *
+  - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition
   - Pipe
@@ -112,37 +112,37 @@
   - Instance
   - Object: 🎓 known
   - Collection
-  - Set +
+  - Set: 🎓 known
   - Hash table
-  - Linked list *
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
-  - Circular list +
-  - Queue *
+  - Circular list: 🎓 known
+  - Queue: 🖐️ used
   - Stack: 🖐️ used
   - Deque
-  - Tree *
-  - Graph *
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
   - Iterator: 🖐️ used
-  - Mutable state +
-  - Immutable state +
-  - Serialization ~
-  - String parsing ~
-  - JSON +
+  - Mutable state: 🎓 known
+  - Immutable state: 🎓 known
+  - Serialization: 👂 heard
+  - String parsing: 👂 heard
+  - JSON: 🎓 known
   - JSON5
-  - YAML ~
+  - YAML: 👂 heard
 - Networking
-  - DNS ~
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4 *
-  - IPv6 *
-  - NAT ~
-  - URL +
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
+  - NAT: 👂 heard
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler *
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,23 +152,23 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime ~
-  - Virtual machine +
+  - Runtime: 👂 heard
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
-  - Containerization ~
+  - Containerization: 👂 heard
   - Debugger: 🎓 known
   - Tracing
   - Garbage collection: 👂 heard
-  - Refactoring +
+  - Refactoring: 🎓 known
   - Code review: 🎓 known
   - Exception: 🖐️ used
   - Unittesting: 🎓 known
-  - git *
+  - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker +
-  - Kubernetes ~
-  - GCC +
+  - Docker: 🎓 known
+  - Kubernetes: 👂 heard
+  - GCC: 🎓 known
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
@@ -182,18 +182,18 @@
   - Silver bullet: 👂 heard
   - Not invented here: 👂 heard
   - Dead code: 👂 heard
-  - Unreachable code +
+  - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
-  - Large class/file +
-  - Too many parameters +
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case +
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,20 +209,20 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers ~
-  - Kernel ~
+  - Drivers: 👂 heard
+  - Kernel: 👂 heard
   - Ring
   - Virtual memory
-  - File system +
-  - Linux *
-  - Unix +
-  - BSD ~
-  - MacOS +
-  - Windows *
+  - File system: 🎓 known
+  - Linux: 🖐️ used
+  - Unix: 🎓 known
+  - BSD: 👂 heard
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII ~
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF

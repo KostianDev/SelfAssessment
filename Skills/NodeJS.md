@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` *
-  - Files `package.json`, `package-lock.json` *
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -27,7 +27,7 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI *
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -103,7 +103,7 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository ~
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping

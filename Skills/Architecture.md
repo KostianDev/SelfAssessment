@@ -1,9 +1,9 @@
 ## Architecture
 
 - Application structure
-  - Modularity +
-  - Components *
-  - Directories *
+  - Modularity: 🎓 known
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
   - GRASP
   - SOLID
   - GoF patterns
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability ~
-  - Quality ~
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
   - Availability
-  - Flexibility ~
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -30,7 +30,7 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming ~
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds ~
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
   - No-code
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices ~
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse

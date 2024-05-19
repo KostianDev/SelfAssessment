@@ -15,7 +15,7 @@
   - printf: 🖐️ used
   - scanf: 🖐️ used
   - Format specifiers: 🖐️ used
-  - Graphical output *
+  - Graphical output: 🖐️ used
 - Operators
   - Arithmetic operations: 🖐️ used
   - Relational operators: 🖐️ used
@@ -34,19 +34,19 @@
   - Function definition and call: 🙋 explained
   - Parameter passing techniques: 🖐️ used
   - Math functions: 🖐️ used
-  - Recursion *
+  - Recursion: 🖐️ used
 - Data structures
-  - Array *
-  - Linked list *
-  - Graph *
-  - Tree *
-  - Stack *
-  - Queue *
+  - Array: 🖐️ used
+  - Linked list: 🖐️ used
+  - Graph: 🖐️ used
+  - Tree: 🖐️ used
+  - Stack: 🖐️ used
+  - Queue: 🖐️ used
 - Arrays
   - C arrays: 🖐️ used
   - Multidimensional arrays: 🖐️ used
   - Passing arrays to functions: 🙋 explained
 - Algorithms
-  - BFS *
-  - DFS *
-  - Prim's algorithm *
+  - BFS: 🖐️ used
+  - DFS: 🖐️ used
+  - Prim's algorithm: 🖐️ used

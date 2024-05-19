@@ -3,18 +3,18 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations ~
+  - Migrations: 👂 heard
   - Schema versioning
-  - Backup and recovery ~
-  - Database scalability ~
-  - Relational databases ~
+  - Backup and recovery: 👂 heard
+  - Database scalability: 👂 heard
+  - Relational databases: 👂 heard
   - Key-value store
   - Tuple store
   - Graph databases
   - Object databases
   - Column databases
   - Navigational databases
-  - Hierarchical databases ~
+  - Hierarchical databases: 👂 heard
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
@@ -71,24 +71,24 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle ~
-  - MySQL ~
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB ~
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
-  - SQLite ~
+  - SQLite: 👂 heard
   - DynamoDB
-  - Firebase +
+  - Firebase: 🎓 known
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis ~
+  - Data analysis: 👂 heard
   - AI tools
-  - Cloud databases ~
+  - Cloud databases: 👂 heard
   - Data Visualization
