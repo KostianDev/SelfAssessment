@@ -1,89 +1,122 @@
 ## JavaScript
 
 - Language
-  - Object: 🎓 known
-  - this: 👂 heard
-  - arrow function: 👂 heard
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator: 🎓 known
-  - iterator: 🎓 known
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - `Object`: 🎓 known
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String`
+  - `Symbol`
+  - `Infinity`
+  - `NaN`
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 👂 heard
+  - `instanceof`
+  - `...spread`
+  - `...rest`
+  - `typeof`
+  - Destructuring
+  - Generators: 🎓 known
+  - Iterators: 🎓 known
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
   - IIFE
-  - global: 🎓 known
-  - globalThis: 🎓 known
-  - window: 🎓 known
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators: 🎓 known
-  - logical operators: 🎓 known
-  - bitwise operators: 🎓 known
-  - ternary operator
-  - void: 🎓 known
-  - yield: 🎓 known
-  - await
-  - template literal
-  - strict mode: 🎓 known
-  - delete
-  - in: 🎓 known
-  - super
-  - Symbol
-  - Reflect
+  - Async IIFE
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
+  - `window`: 🎓 known
+  - Getters and setters
+  - `__proto__`
+  - `prototype`
+  - Equality operators: 🎓 known
+  - Logical operators: 🎓 known
+  - Logical Assignment
+  - Bitwise operators: 🎓 known
+  - Ternary operator
+  - `void`: 🎓 known
+  - `yield`: 🎓 known
+  - `await`
+  - Template literal
+  - Strict mode: 🎓 known
+  - Hoisting
+  - `delete`
+  - `in`: 🎓 known
+  - `super`
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
-  - if: 🎓 known
-  - while: 🎓 known
-  - do..while: 🎓 known
-  - for: 🎓 known
-  - for..in: 🎓 known
-  - for..of: 🎓 known
-  - for await
-  - throw
-  - break: 🎓 known
-  - continue: 🎓 known
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class: 🎓 known
-  - new Error
-  - with: 🎓 known
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`
+  - `throw`
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`
+  - `export`
+  - `label`
+  - `try..catch`
+  - `switch`
+  - `class`: 🎓 known
+  - `extends`
+  - `with`: 🎓 known
+  - `new`
 - Functions
-  - function declaration: 🎓 known
-  - function expression: 🎓 known
-  - return: 🎓 known
-  - default parameters: 🎓 known
-  - functional object
+  - Arrow function: 👂 heard
+  - Async function
+  - Function declaration: 🎓 known
+  - Function expression: 🎓 known
+  - Default parameters: 🎓 known
+  - Functional object
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return`: 🎓 known
 - Data structures
-  - Array: 🎓 known
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined: 🎓 known
-  - null: 🎓 known
-  - Proxy
-  - weak collections
-  - timers: 🎓 known
-  - EventEmitter: 🎓 known
-  - RegExp
-  - Date
-  - BigInt
+  - `Array`: 🎓 known
+  - `Map`
+  - `Set`
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays
+  - Mixins
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
+  - Timers: 🎓 known
 - Infrastructure
   - V8
   - Node.js
   - npm
   - prettier
   - MDN
+  - TC39
