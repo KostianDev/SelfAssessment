@@ -2,25 +2,25 @@
 
 - Language
   - `Object`: 🎓 known
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`
-  - `String`
+  - `String`: 🖐️ used
   - `Symbol`
   - `Infinity`
   - `NaN`
   - `undefined`: 🎓 known
   - `null`: 🎓 known
-  - `this`: 👂 heard
+  - `this`: 🎓 known
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
-  - Destructuring
+  - `typeof`: 🎓 known
+  - Destructuring: 🖐️ used
   - Generators: 🎓 known
   - Iterators: 🎓 known
-  - Async generator
+  - Async generator: 👂 heard
   - Async iterator
   - Chaining
   - Optional chaining
@@ -32,22 +32,22 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators: 🎓 known
-  - Logical operators: 🎓 known
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
   - Bitwise operators: 🎓 known
-  - Ternary operator
+  - Ternary operator: 🖐️ used
   - `void`: 🎓 known
   - `yield`: 🎓 known
-  - `await`
+  - `await`: 🖐️ used
   - Template literal
-  - Strict mode: 🎓 known
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`: 🎓 known
   - `super`
   - `eval`
-  - `static`
+  - `static`: 🎓 known
   - `Number.parseInt`
   - `Number.parseFloat`
   - Property descriptors
@@ -55,68 +55,68 @@
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields: 👂 heard
+  - Private class fields: 👂 heard
+  - Private class methods: 👂 heard
 - Statements
-  - `if`: 🎓 known
-  - `while`: 🎓 known
-  - `do..while`: 🎓 known
-  - `for`: 🎓 known
-  - `for..in`: 🎓 known
-  - `for..of`: 🎓 known
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw`
-  - `break`: 🎓 known
-  - `continue`: 🎓 known
-  - `import`
-  - `export`
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch`
-  - `switch`
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
   - `class`: 🎓 known
   - `extends`
   - `with`: 🎓 known
   - `new`
 - Functions
-  - Arrow function: 👂 heard
-  - Async function
-  - Function declaration: 🎓 known
-  - Function expression: 🎓 known
-  - Default parameters: 🎓 known
-  - Functional object
+  - Arrow function: 🖐️ used
+  - Async function: 🎓 known
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 🎓 known
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`: 🎓 known
+  - `return`: 🖐️ used
 - Data structures
   - `Array`: 🎓 known
   - `Map`
   - `Set`
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
+  - Typed arrays: 🎓 known
   - Mixins
-  - `Object.assign`
+  - `Object.assign`: 👂 heard
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
-  - Timers: 🎓 known
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js: 🎓 known
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
   - TC39

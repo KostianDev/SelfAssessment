@@ -7,18 +7,18 @@
   - Non-structured programming
   - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming: 👂 heard
+  - Object-oriented programming: 🎓 known
   - Object-based programming
-  - Generic programming
+  - Generic programming: 🎓 known
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,20 +27,20 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: 👂 heard
+  - Constructor: 🎓 known
   - Operator `new`
-  - Static method
-  - Method
+  - Static method: 👂 heard
+  - Method: 👂 heard
   - Async method
   - Getters, Setters
-  - Public fields: 👂 heard
-  - Private fields: 👂 heard
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
   - Field declarations
   - Inheritance: 👂 heard
   - Parent class
   - Polymorphism: 👂 heard
   - Abstract class
-  - Interface: 👂 heard
+  - Interface: 🎓 known
   - Encapsulation: 👂 heard
   - Hidden class
   - Object form
@@ -68,7 +68,7 @@
   - Factory Method
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer: 👂 heard
   - Strategy
   - Facade
   - Proxy

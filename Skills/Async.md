@@ -2,9 +2,9 @@
 
 - Theory
   - Event loop: 👂 heard
-  - `try..catch`
+  - `try..catch`: 🖐️ used
   - Non-blocking
-  - Async I/O
+  - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -17,38 +17,38 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
   - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
+  - Async Generator: 👂 heard
   - Async Iterator
-  - Event
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal: 👂 heard
+  - Stream: 👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
   - callbackify
   - promisify
-  - asyncify
+  - asyncify: 👂 heard
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 👂 heard
   - Readable
   - Writable
   - Transform
@@ -62,8 +62,8 @@
   - Timers: 👂 heard
   - `setImmediate`
   - `nextTick`
-  - AbortController
-  - AbortSignal
+  - AbortController: 👂 heard
+  - AbortSignal: 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
@@ -71,7 +71,7 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 👂 heard
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
